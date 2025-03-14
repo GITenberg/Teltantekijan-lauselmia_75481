@@ -1,0 +1,53 @@
+_repo: Teltantekijan-lauselmia_75481
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Lyy, Toivo
+    aliases:
+    - Mähönen, Toivo
+    - Mahonen, Toivo
+    - Lyy, Otto Toivo
+    birthdate: 1898
+    deathdate: 1976
+    gutenberg_agent_id: '57784'
+    url: http://www.gutenberg.org/2009/agents/57784
+  - agent_name: Rosen, Friedrich
+    aliases:
+    - Rosen, Fritz
+    - Rozen, Friedrich
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '58018'
+    url: http://www.gutenberg.org/2009/agents/58018
+    wikipedia: https://en.wikipedia.org/wiki/Friedrich_Rosen
+creator:
+  author:
+    agent_name: Omar Khayyam
+    aliases:
+    - Khayyam, Omar
+    - Khaijam, Omar
+    birthdate: 1048
+    deathdate: 1122
+    gutenberg_agent_id: '1787'
+    url: http://www.gutenberg.org/2009/agents/1787
+    wikipedia: https://en.wikipedia.org/wiki/Omar_Khayyam
+description: Based in part on German translations by Rosen.
+gutenberg_issued: '2025-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75481'
+language: fi
+pgterms:marc905: 20250124120557khaijam
+pgterms:marc906: '2008'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c2008.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Persian poetry -- Translations into Finnish'
+- !lcc 'PK'
+- GITenberg
+title: Teltantekijän lauselmia
+url: http://www.gutenberg.org/ebooks/75481
