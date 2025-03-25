@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '58018'
     url: http://www.gutenberg.org/2009/agents/58018
     wikipedia: https://en.wikipedia.org/wiki/Friedrich_Rosen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Omar Khayyam
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1787
     wikipedia: https://en.wikipedia.org/wiki/Omar_Khayyam
 description: Based in part on German translations by Rosen.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75481#Teltantekijan-lauselmia
 gutenberg_issued: '2025-02-27'
 gutenberg_type: Text
 identifiers:
